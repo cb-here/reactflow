@@ -1,3 +1,5 @@
 1. First I learn about how to add the nodes and edges in react using react flow. Corresponding file for this is in the folder components/FlowChart.jsx
 
-2. 
+2. Making the node draggable now
+
+3. Now lets connect the nodes manually.
