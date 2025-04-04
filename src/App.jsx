@@ -4,12 +4,14 @@ import React from 'react'
 import './App.css'
 import FlowChart from './components/FlowChart';
 import Draggable from './components/Draggable';
+import ConnectNodes from './components/ConnectNodes';
 
 function App() {
   return (
-      <div style={{ height: '100vh', width: '100vw'}}>
+      <div style={{ height: '90vh', width: '90vw'}}>
         {/* <FlowChart /> */}
-        <Draggable />
+        {/* <Draggable /> */}
+        <ConnectNodes />
       </div>
   )
 }
